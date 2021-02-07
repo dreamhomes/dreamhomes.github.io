@@ -63,10 +63,6 @@ div.recent-post-item {
     }
 
 [data-theme="dark"]
-  #aside-content .card-widget{
-      background: rgba(0, 0, 0, 0.8)!important;
-    }
-[data-theme="dark"]
   div#post{
       background: rgba(0, 0, 0, 0.8)!important;
     }
