@@ -1,6 +1,6 @@
 @font-face{
     font-family: 'myFont';
-    src: url('../fonts/Love.ttf'); 
+    src: url('https://cdn.jsdelivr.net/gh/dreamhomes/dreamhomes.github.io@master/fonts/Love.ttf'); 
     font-display: swap;
 }
 
