@@ -6,7 +6,7 @@
   <link href="https://dreamhomes.github.io/atom.xml" rel="self"/>
   
   <link href="https://dreamhomes.github.io/"/>
-  <updated>2021-03-01T10:50:15.026Z</updated>
+  <updated>2021-03-01T11:09:39.210Z</updated>
   <id>https://dreamhomes.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python 执行 shell 命令的常用方式</title>
+    <link href="https://dreamhomes.github.io/posts/202103011855.html"/>
+    <id>https://dreamhomes.github.io/posts/202103011855.html</id>
+    <published>2021-03-01T10:55:38.000Z</published>
+    <updated>2021-03-01T11:09:39.210Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在使用 Python 编写自动化脚本的时候，难免会需要执行一些基本的 shell 命令，而 Python 执行 shell 命令的方式有好几种，如果根据需要选择最适合的方式显得非常重要，这篇文章总结和对比一下几种常见的 Python 运行 shell</summary>
+        
+      
+    
+    
+    
+    <category term="技术杂谈" scheme="https://dreamhomes.github.io/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="Python" scheme="https://dreamhomes.github.io/tags/Python/"/>
+    
+  </entry>
   
   <entry>
     <title>Python 代码优化技巧（三）</title>
@@ -533,32 +558,6 @@
     
     
     <category term="Docker" scheme="https://dreamhomes.github.io/tags/Docker/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>机器学习中的 KL 散度及其 Python 实现</title>
-    <link href="https://dreamhomes.github.io/posts/202006032136.html"/>
-    <id>https://dreamhomes.github.io/posts/202006032136.html</id>
-    <published>2020-06-03T13:36:22.000Z</published>
-    <updated>2021-02-07T02:31:58.973Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;KL-散度定义&quot;&gt;KL 散度定义&lt;/h2&gt;
-&lt;p&gt;相对熵，又称KL散度，如果我们对于同一个随机变量 &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math</summary>
-        
-      
-    
-    
-    
-    <category term="机器学习" scheme="https://dreamhomes.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="KL散度" scheme="https://dreamhomes.github.io/tags/KL%E6%95%A3%E5%BA%A6/"/>
     
   </entry>
   
