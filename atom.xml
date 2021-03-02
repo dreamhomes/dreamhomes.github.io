@@ -3,11 +3,11 @@
   <title>梦家博客</title>
   
   
-  <link href="https://dreamhomes.github.io/atom.xml" rel="self"/>
+  <link href="https://dreamhomes.top/atom.xml" rel="self"/>
   
-  <link href="https://dreamhomes.github.io/"/>
+  <link href="https://dreamhomes.top/"/>
   <updated>2021-03-01T11:09:39.210Z</updated>
-  <id>https://dreamhomes.github.io/</id>
+  <id>https://dreamhomes.top/</id>
   
   <author>
     <name>梦家</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>python 执行 shell 命令的常用方式</title>
-    <link href="https://dreamhomes.github.io/posts/202103011855.html"/>
-    <id>https://dreamhomes.github.io/posts/202103011855.html</id>
+    <link href="https://dreamhomes.top/posts/202103011855.html"/>
+    <id>https://dreamhomes.top/posts/202103011855.html</id>
     <published>2021-03-01T10:55:38.000Z</published>
     <updated>2021-03-01T11:09:39.210Z</updated>
     
@@ -34,17 +34,17 @@
     
     
     
-    <category term="技术杂谈" scheme="https://dreamhomes.github.io/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="Python" scheme="https://dreamhomes.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://dreamhomes.top/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>Python 代码优化技巧（三）</title>
-    <link href="https://dreamhomes.github.io/posts/202103011107.html"/>
-    <id>https://dreamhomes.github.io/posts/202103011107.html</id>
+    <link href="https://dreamhomes.top/posts/202103011107.html"/>
+    <id>https://dreamhomes.top/posts/202103011107.html</id>
     <published>2021-03-01T03:07:47.000Z</published>
     <updated>2021-03-01T10:50:15.026Z</updated>
     
@@ -61,17 +61,17 @@
     
     
     
-    <category term="技术杂谈" scheme="https://dreamhomes.github.io/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="Python" scheme="https://dreamhomes.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://dreamhomes.top/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>【2021】Multi-Source Anomaly Detection in Distributed IT Systems</title>
-    <link href="https://dreamhomes.github.io/posts/202101251633.html"/>
-    <id>https://dreamhomes.github.io/posts/202101251633.html</id>
+    <link href="https://dreamhomes.top/posts/202101251633.html"/>
+    <id>https://dreamhomes.top/posts/202101251633.html</id>
     <published>2021-01-25T08:33:58.000Z</published>
     <updated>2021-02-07T06:05:22.841Z</updated>
     
@@ -87,17 +87,17 @@
     
     
     
-    <category term="论文分享" scheme="https://dreamhomes.github.io/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="异常检测" scheme="https://dreamhomes.github.io/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
+    <category term="异常检测" scheme="https://dreamhomes.top/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
     
   </entry>
   
   <entry>
     <title>【2017/MLG】graph2vec Learning Distributed Representations of Graphs</title>
-    <link href="https://dreamhomes.github.io/posts/202101181459.html"/>
-    <id>https://dreamhomes.github.io/posts/202101181459.html</id>
+    <link href="https://dreamhomes.top/posts/202101181459.html"/>
+    <id>https://dreamhomes.top/posts/202101181459.html</id>
     <published>2021-01-18T06:59:42.000Z</published>
     <updated>2021-02-07T06:07:22.769Z</updated>
     
@@ -113,17 +113,17 @@
     
     
     
-    <category term="论文分享" scheme="https://dreamhomes.github.io/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="图神经网络" scheme="https://dreamhomes.github.io/tags/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    <category term="图神经网络" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
   <entry>
     <title>Python 命令行参数解析方法总结</title>
-    <link href="https://dreamhomes.github.io/posts/202101161752.html"/>
-    <id>https://dreamhomes.github.io/posts/202101161752.html</id>
+    <link href="https://dreamhomes.top/posts/202101161752.html"/>
+    <id>https://dreamhomes.top/posts/202101161752.html</id>
     <published>2021-01-16T09:52:12.000Z</published>
     <updated>2021-02-07T02:40:52.059Z</updated>
     
@@ -139,17 +139,17 @@
     
     
     
-    <category term="技术杂谈" scheme="https://dreamhomes.github.io/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="Python" scheme="https://dreamhomes.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://dreamhomes.top/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>数据预处理中的归一化和标准化方法</title>
-    <link href="https://dreamhomes.github.io/posts/202101142027.html"/>
-    <id>https://dreamhomes.github.io/posts/202101142027.html</id>
+    <link href="https://dreamhomes.top/posts/202101142027.html"/>
+    <id>https://dreamhomes.top/posts/202101142027.html</id>
     <published>2021-01-14T12:27:28.000Z</published>
     <updated>2021-02-07T02:33:07.341Z</updated>
     
@@ -164,17 +164,17 @@
     
     
     
-    <category term="机器学习" scheme="https://dreamhomes.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://dreamhomes.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="数据预处理" scheme="https://dreamhomes.github.io/tags/%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86/"/>
+    <category term="数据预处理" scheme="https://dreamhomes.top/tags/%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>深度学习中的模型训练问题</title>
-    <link href="https://dreamhomes.github.io/posts/202101101900.html"/>
-    <id>https://dreamhomes.github.io/posts/202101101900.html</id>
+    <link href="https://dreamhomes.top/posts/202101101900.html"/>
+    <id>https://dreamhomes.top/posts/202101101900.html</id>
     <published>2021-01-10T11:00:28.000Z</published>
     <updated>2021-02-19T11:31:15.256Z</updated>
     
@@ -195,17 +195,17 @@
     
     
     
-    <category term="深度学习" scheme="https://dreamhomes.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    <category term="深度学习" scheme="https://dreamhomes.top/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="深度学习" scheme="https://dreamhomes.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    <category term="深度学习" scheme="https://dreamhomes.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>【2019/ICML】DAG-GNN DAG Structure Learning with Graph Neural Networks</title>
-    <link href="https://dreamhomes.github.io/posts/202101041501.html"/>
-    <id>https://dreamhomes.github.io/posts/202101041501.html</id>
+    <link href="https://dreamhomes.top/posts/202101041501.html"/>
+    <id>https://dreamhomes.top/posts/202101041501.html</id>
     <published>2021-01-04T07:01:17.000Z</published>
     <updated>2021-02-07T06:07:31.201Z</updated>
     
@@ -221,17 +221,17 @@
     
     
     
-    <category term="论文分享" scheme="https://dreamhomes.github.io/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="图神经网络" scheme="https://dreamhomes.github.io/tags/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    <category term="图神经网络" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
   <entry>
     <title>SciPy 中不同稀疏矩阵存储方式介绍</title>
-    <link href="https://dreamhomes.github.io/posts/202012311027.html"/>
-    <id>https://dreamhomes.github.io/posts/202012311027.html</id>
+    <link href="https://dreamhomes.top/posts/202012311027.html"/>
+    <id>https://dreamhomes.top/posts/202012311027.html</id>
     <published>2020-12-31T02:27:49.000Z</published>
     <updated>2021-02-07T07:58:57.880Z</updated>
     
@@ -251,17 +251,17 @@
     
     
     
-    <category term="机器学习" scheme="https://dreamhomes.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://dreamhomes.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="Python" scheme="https://dreamhomes.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://dreamhomes.top/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>【2019/SDM】Deep Anomaly Detection on Attributed Networks</title>
-    <link href="https://dreamhomes.github.io/posts/202012271139.html"/>
-    <id>https://dreamhomes.github.io/posts/202012271139.html</id>
+    <link href="https://dreamhomes.top/posts/202012271139.html"/>
+    <id>https://dreamhomes.top/posts/202012271139.html</id>
     <published>2020-12-27T03:39:58.000Z</published>
     <updated>2021-02-07T02:39:51.746Z</updated>
     
@@ -277,19 +277,19 @@
     
     
     
-    <category term="论文分享" scheme="https://dreamhomes.github.io/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="异常检测" scheme="https://dreamhomes.github.io/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
+    <category term="异常检测" scheme="https://dreamhomes.top/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
     
-    <category term="属性网络" scheme="https://dreamhomes.github.io/tags/%E5%B1%9E%E6%80%A7%E7%BD%91%E7%BB%9C/"/>
+    <category term="属性网络" scheme="https://dreamhomes.top/tags/%E5%B1%9E%E6%80%A7%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
   <entry>
     <title>PyTorch 中的损失函数总结</title>
-    <link href="https://dreamhomes.github.io/posts/202012261041.html"/>
-    <id>https://dreamhomes.github.io/posts/202012261041.html</id>
+    <link href="https://dreamhomes.top/posts/202012261041.html"/>
+    <id>https://dreamhomes.top/posts/202012261041.html</id>
     <published>2020-12-26T02:41:03.000Z</published>
     <updated>2021-02-07T02:43:16.800Z</updated>
     
@@ -307,17 +307,17 @@
     
     
     
-    <category term="深度学习" scheme="https://dreamhomes.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    <category term="深度学习" scheme="https://dreamhomes.top/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="PyTorch" scheme="https://dreamhomes.github.io/tags/PyTorch/"/>
+    <category term="PyTorch" scheme="https://dreamhomes.top/tags/PyTorch/"/>
     
   </entry>
   
   <entry>
     <title>【2015/IE】 Variational Autoencoder based Anomaly Detection using Reconstruction Probability</title>
-    <link href="https://dreamhomes.github.io/posts/202012131804.html"/>
-    <id>https://dreamhomes.github.io/posts/202012131804.html</id>
+    <link href="https://dreamhomes.top/posts/202012131804.html"/>
+    <id>https://dreamhomes.top/posts/202012131804.html</id>
     <published>2020-12-13T10:04:44.000Z</published>
     <updated>2021-02-07T02:39:44.981Z</updated>
     
@@ -333,19 +333,19 @@
     
     
     
-    <category term="论文分享" scheme="https://dreamhomes.github.io/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="变分自编码器" scheme="https://dreamhomes.github.io/tags/%E5%8F%98%E5%88%86%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8/"/>
+    <category term="变分自编码器" scheme="https://dreamhomes.top/tags/%E5%8F%98%E5%88%86%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8/"/>
     
-    <category term="异常检测" scheme="https://dreamhomes.github.io/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
+    <category term="异常检测" scheme="https://dreamhomes.top/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
     
   </entry>
   
   <entry>
     <title>详解 CRON 表达式</title>
-    <link href="https://dreamhomes.github.io/posts/202008191904.html"/>
-    <id>https://dreamhomes.github.io/posts/202008191904.html</id>
+    <link href="https://dreamhomes.top/posts/202008191904.html"/>
+    <id>https://dreamhomes.top/posts/202008191904.html</id>
     <published>2020-08-19T11:04:07.000Z</published>
     <updated>2021-02-20T03:36:43.455Z</updated>
     
@@ -363,17 +363,17 @@
     
     
     
-    <category term="技术杂谈" scheme="https://dreamhomes.github.io/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="CRON表达式" scheme="https://dreamhomes.github.io/tags/CRON%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    <category term="CRON表达式" scheme="https://dreamhomes.top/tags/CRON%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>【2005/WWW】Object-Level Ranking-Bringing Order to Web Objects</title>
-    <link href="https://dreamhomes.github.io/posts/202007261112.html"/>
-    <id>https://dreamhomes.github.io/posts/202007261112.html</id>
+    <link href="https://dreamhomes.top/posts/202007261112.html"/>
+    <id>https://dreamhomes.top/posts/202007261112.html</id>
     <published>2020-07-26T03:12:45.000Z</published>
     <updated>2021-02-07T02:39:36.805Z</updated>
     
@@ -389,19 +389,19 @@
     
     
     
-    <category term="论文分享" scheme="https://dreamhomes.github.io/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="异质信息网络" scheme="https://dreamhomes.github.io/tags/%E5%BC%82%E8%B4%A8%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C/"/>
+    <category term="异质信息网络" scheme="https://dreamhomes.top/tags/%E5%BC%82%E8%B4%A8%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C/"/>
     
-    <category term="节点排序" scheme="https://dreamhomes.github.io/tags/%E8%8A%82%E7%82%B9%E6%8E%92%E5%BA%8F/"/>
+    <category term="节点排序" scheme="https://dreamhomes.top/tags/%E8%8A%82%E7%82%B9%E6%8E%92%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>【2004/VLDB】ObjectRank-Authority-Based Keyword Search in Databases</title>
-    <link href="https://dreamhomes.github.io/posts/202007261051.html"/>
-    <id>https://dreamhomes.github.io/posts/202007261051.html</id>
+    <link href="https://dreamhomes.top/posts/202007261051.html"/>
+    <id>https://dreamhomes.top/posts/202007261051.html</id>
     <published>2020-07-26T02:51:07.000Z</published>
     <updated>2021-02-07T02:39:24.222Z</updated>
     
@@ -419,19 +419,19 @@
     
     
     
-    <category term="论文分享" scheme="https://dreamhomes.github.io/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="异质信息网络" scheme="https://dreamhomes.github.io/tags/%E5%BC%82%E8%B4%A8%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C/"/>
+    <category term="异质信息网络" scheme="https://dreamhomes.top/tags/%E5%BC%82%E8%B4%A8%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C/"/>
     
-    <category term="节点排序" scheme="https://dreamhomes.github.io/tags/%E8%8A%82%E7%82%B9%E6%8E%92%E5%BA%8F/"/>
+    <category term="节点排序" scheme="https://dreamhomes.top/tags/%E8%8A%82%E7%82%B9%E6%8E%92%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>【2013/SIGMETRICS】Root Cause Detection in a Service-Oriented Architecture</title>
-    <link href="https://dreamhomes.github.io/posts/202007012129.html"/>
-    <id>https://dreamhomes.github.io/posts/202007012129.html</id>
+    <link href="https://dreamhomes.top/posts/202007012129.html"/>
+    <id>https://dreamhomes.top/posts/202007012129.html</id>
     <published>2020-07-01T13:29:29.000Z</published>
     <updated>2021-02-07T02:39:17.457Z</updated>
     
@@ -447,17 +447,17 @@
     
     
     
-    <category term="论文分享" scheme="https://dreamhomes.github.io/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="根因定位" scheme="https://dreamhomes.github.io/tags/%E6%A0%B9%E5%9B%A0%E5%AE%9A%E4%BD%8D/"/>
+    <category term="根因定位" scheme="https://dreamhomes.top/tags/%E6%A0%B9%E5%9B%A0%E5%AE%9A%E4%BD%8D/"/>
     
   </entry>
   
   <entry>
     <title>2020年北京智源大会总结</title>
-    <link href="https://dreamhomes.github.io/posts/202006210947.html"/>
-    <id>https://dreamhomes.github.io/posts/202006210947.html</id>
+    <link href="https://dreamhomes.top/posts/202006210947.html"/>
+    <id>https://dreamhomes.top/posts/202006210947.html</id>
     <published>2020-06-21T01:47:56.000Z</published>
     <updated>2021-02-07T02:45:02.324Z</updated>
     
@@ -474,17 +474,17 @@
     
     
     
-    <category term="生活杂谈" scheme="https://dreamhomes.github.io/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    <category term="生活杂谈" scheme="https://dreamhomes.top/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="个人总结" scheme="https://dreamhomes.github.io/tags/%E4%B8%AA%E4%BA%BA%E6%80%BB%E7%BB%93/"/>
+    <category term="个人总结" scheme="https://dreamhomes.top/tags/%E4%B8%AA%E4%BA%BA%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
   <entry>
     <title>基于频谱域与基于空间域的图卷积网络对比</title>
-    <link href="https://dreamhomes.github.io/posts/202006171017.html"/>
-    <id>https://dreamhomes.github.io/posts/202006171017.html</id>
+    <link href="https://dreamhomes.top/posts/202006171017.html"/>
+    <id>https://dreamhomes.top/posts/202006171017.html</id>
     <published>2020-06-17T02:17:35.000Z</published>
     <updated>2021-03-01T03:32:35.139Z</updated>
     
@@ -499,17 +499,17 @@
     
     
     
-    <category term="深度学习" scheme="https://dreamhomes.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    <category term="深度学习" scheme="https://dreamhomes.top/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="GCN 理论" scheme="https://dreamhomes.github.io/tags/GCN-%E7%90%86%E8%AE%BA/"/>
+    <category term="GCN 理论" scheme="https://dreamhomes.top/tags/GCN-%E7%90%86%E8%AE%BA/"/>
     
   </entry>
   
   <entry>
     <title>【2016/NIPS】Variational Graph Auto-Encoders</title>
-    <link href="https://dreamhomes.github.io/posts/202006092138.html"/>
-    <id>https://dreamhomes.github.io/posts/202006092138.html</id>
+    <link href="https://dreamhomes.top/posts/202006092138.html"/>
+    <id>https://dreamhomes.top/posts/202006092138.html</id>
     <published>2020-06-09T13:38:03.000Z</published>
     <updated>2021-02-07T02:39:10.762Z</updated>
     
@@ -526,19 +526,19 @@
     
     
     
-    <category term="论文分享" scheme="https://dreamhomes.github.io/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="图自编码器" scheme="https://dreamhomes.github.io/tags/%E5%9B%BE%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8/"/>
+    <category term="图自编码器" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8/"/>
     
-    <category term="图变分自编码器" scheme="https://dreamhomes.github.io/tags/%E5%9B%BE%E5%8F%98%E5%88%86%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8/"/>
+    <category term="图变分自编码器" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E5%8F%98%E5%88%86%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8/"/>
     
   </entry>
   
   <entry>
     <title>Docker 容器中解决用户访问权限的问题</title>
-    <link href="https://dreamhomes.github.io/posts/202006041113.html"/>
-    <id>https://dreamhomes.github.io/posts/202006041113.html</id>
+    <link href="https://dreamhomes.top/posts/202006041113.html"/>
+    <id>https://dreamhomes.top/posts/202006041113.html</id>
     <published>2020-06-04T03:13:45.000Z</published>
     <updated>2021-02-07T02:45:18.411Z</updated>
     
@@ -554,10 +554,10 @@
     
     
     
-    <category term="技术杂谈" scheme="https://dreamhomes.github.io/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="Docker" scheme="https://dreamhomes.github.io/tags/Docker/"/>
+    <category term="Docker" scheme="https://dreamhomes.top/tags/Docker/"/>
     
   </entry>
   
