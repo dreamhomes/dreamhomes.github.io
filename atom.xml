@@ -6,7 +6,7 @@
   <link href="https://dreamhomes.top/atom.xml" rel="self"/>
   
   <link href="https://dreamhomes.top/"/>
-  <updated>2021-03-09T12:26:09.349Z</updated>
+  <updated>2021-03-11T09:06:55.131Z</updated>
   <id>https://dreamhomes.top/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TopoMAD：云系统中基于时空数据的无监督异常检测模型</title>
+    <link href="https://dreamhomes.top/posts/202103111131.html"/>
+    <id>https://dreamhomes.top/posts/202103111131.html</id>
+    <published>2021-03-11T03:31:41.000Z</published>
+    <updated>2021-03-11T09:06:55.131Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note info flat&quot;&gt;&lt;p&gt;论文标题 ｜ A Spatiotemporal Deep Learning Approach for Unsupervised Anomaly Detection in Cloud Systems&lt;br&gt;
+论文来源</summary>
+        
+      
+    
+    
+    
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="异常检测" scheme="https://dreamhomes.top/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
+    
+    <category term="图神经网络" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AddGraph：基于时空图注意力卷积网络的动态图异常检测</title>
+    <link href="https://dreamhomes.top/posts/202103101313.html"/>
+    <id>https://dreamhomes.top/posts/202103101313.html</id>
+    <published>2021-03-10T05:13:05.000Z</published>
+    <updated>2021-03-11T08:29:15.646Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note info flat&quot;&gt;&lt;p&gt;​    论文标题 ｜ AddGraph: Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN&lt;br&gt;
+​    论文来源 ｜</summary>
+        
+      
+    
+    
+    
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="异常检测" scheme="https://dreamhomes.top/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
+    
+    <category term="图神经网络" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>Python 日期时间戳解析方法详解</title>
@@ -506,59 +562,6 @@
     <category term="异质信息网络" scheme="https://dreamhomes.top/tags/%E5%BC%82%E8%B4%A8%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C/"/>
     
     <category term="节点排序" scheme="https://dreamhomes.top/tags/%E8%8A%82%E7%82%B9%E6%8E%92%E5%BA%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【2013/SIGMETRICS】Root Cause Detection in a Service-Oriented Architecture</title>
-    <link href="https://dreamhomes.top/posts/202007012129.html"/>
-    <id>https://dreamhomes.top/posts/202007012129.html</id>
-    <published>2020-07-01T13:29:29.000Z</published>
-    <updated>2021-02-07T02:39:17.457Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;文章链接：&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="根因定位" scheme="https://dreamhomes.top/tags/%E6%A0%B9%E5%9B%A0%E5%AE%9A%E4%BD%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020年北京智源大会总结</title>
-    <link href="https://dreamhomes.top/posts/202006210947.html"/>
-    <id>https://dreamhomes.top/posts/202006210947.html</id>
-    <published>2020-06-21T01:47:56.000Z</published>
-    <updated>2021-02-07T02:45:02.324Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;开幕式&quot;&gt;开幕式&lt;/h2&gt;
-&lt;p&gt;开幕大领导强调了目前深度学习理论已到达瓶颈，如何将科研成果落地是下个十年重要的问题！balabala…&lt;/p&gt;
-&lt;p&gt;智源社区提出了一套机器学习的符号表示，个人感觉符号这东西重要性不大，如果对某领域有所了解也不会困惑于符号表示！</summary>
-        
-      
-    
-    
-    
-    <category term="生活杂谈" scheme="https://dreamhomes.top/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="个人总结" scheme="https://dreamhomes.top/tags/%E4%B8%AA%E4%BA%BA%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
