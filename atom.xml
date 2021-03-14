@@ -6,7 +6,7 @@
   <link href="https://dreamhomes.top/atom.xml" rel="self"/>
   
   <link href="https://dreamhomes.top/"/>
-  <updated>2021-03-13T03:06:30.942Z</updated>
+  <updated>2021-03-14T09:27:29.163Z</updated>
   <id>https://dreamhomes.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://dreamhomes.top/posts/202103121506.html"/>
     <id>https://dreamhomes.top/posts/202103121506.html</id>
     <published>2021-03-12T07:06:25.000Z</published>
-    <updated>2021-03-13T03:06:30.942Z</updated>
+    <updated>2021-03-14T09:27:29.163Z</updated>
     
     
       
@@ -134,7 +134,7 @@
     <link href="https://dreamhomes.top/posts/202103091557.html"/>
     <id>https://dreamhomes.top/posts/202103091557.html</id>
     <published>2021-03-09T07:57:25.000Z</published>
-    <updated>2021-03-13T08:24:35.041Z</updated>
+    <updated>2021-03-14T09:25:11.850Z</updated>
     
     
       
@@ -190,7 +190,7 @@
     <link href="https://dreamhomes.top/posts/202103021724.html"/>
     <id>https://dreamhomes.top/posts/202103021724.html</id>
     <published>2021-03-02T09:24:06.000Z</published>
-    <updated>2021-03-03T02:26:12.047Z</updated>
+    <updated>2021-03-14T09:30:40.506Z</updated>
     
     
       
@@ -263,6 +263,32 @@
     
     
     <category term="Python" scheme="https://dreamhomes.top/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Butterfly 标签外挂</title>
+    <link href="https://dreamhomes.top/posts/202102011704.html"/>
+    <id>https://dreamhomes.top/posts/202102011704.html</id>
+    <published>2021-02-01T09:04:14.000Z</published>
+    <updated>2021-03-14T09:30:56.540Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Tabs&quot;&gt;Tabs&lt;/h2&gt;
+&lt;figure class=&quot;highlight markdown&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="Hexo" scheme="https://dreamhomes.top/tags/Hexo/"/>
     
   </entry>
   
@@ -353,7 +379,7 @@
     <link href="https://dreamhomes.top/posts/202101142027.html"/>
     <id>https://dreamhomes.top/posts/202101142027.html</id>
     <published>2021-01-14T12:27:28.000Z</published>
-    <updated>2021-02-07T02:33:07.341Z</updated>
+    <updated>2021-03-14T09:32:41.100Z</updated>
     
     
       
@@ -370,37 +396,6 @@
     
     
     <category term="数据预处理" scheme="https://dreamhomes.top/tags/%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>深度学习中的模型训练问题</title>
-    <link href="https://dreamhomes.top/posts/202101101900.html"/>
-    <id>https://dreamhomes.top/posts/202101101900.html</id>
-    <published>2021-01-10T11:00:28.000Z</published>
-    <updated>2021-02-19T11:31:15.256Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;Loss-出现-Nan&quot;&gt;Loss 出现 Nan&lt;/h2&gt;
-&lt;p&gt;总结可能的原因如下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;数据不正确&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;比如说我们处理的实际是一个N分类问题的时候，计算cross</summary>
-        
-      
-    
-    
-    
-    <category term="深度学习" scheme="https://dreamhomes.top/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="深度学习" scheme="https://dreamhomes.top/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
@@ -465,7 +460,7 @@
     <link href="https://dreamhomes.top/posts/202012271139.html"/>
     <id>https://dreamhomes.top/posts/202012271139.html</id>
     <published>2020-12-27T03:39:58.000Z</published>
-    <updated>2021-02-07T02:39:51.746Z</updated>
+    <updated>2021-03-14T09:40:30.689Z</updated>
     
     
       
@@ -489,39 +484,11 @@
   </entry>
   
   <entry>
-    <title>PyTorch 中的损失函数总结</title>
-    <link href="https://dreamhomes.top/posts/202012261041.html"/>
-    <id>https://dreamhomes.top/posts/202012261041.html</id>
-    <published>2020-12-26T02:41:03.000Z</published>
-    <updated>2021-02-07T02:43:16.800Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;L1Loss&quot;&gt;L1Loss&lt;/h2&gt;
-&lt;p&gt;绝对值误差, 主要应用在回归的任务中。&lt;/p&gt;
-&lt;p&gt;输出维度: &lt;code&gt;(batch_size, 1) # FloatTensor&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;标签维度: &lt;code&gt;(batch_size,</summary>
-        
-      
-    
-    
-    
-    <category term="深度学习" scheme="https://dreamhomes.top/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="PyTorch" scheme="https://dreamhomes.top/tags/PyTorch/"/>
-    
-  </entry>
-  
-  <entry>
     <title>【2015/IE】 Variational Autoencoder based Anomaly Detection using Reconstruction Probability</title>
     <link href="https://dreamhomes.top/posts/202012131804.html"/>
     <id>https://dreamhomes.top/posts/202012131804.html</id>
     <published>2020-12-13T10:04:44.000Z</published>
-    <updated>2021-02-07T02:39:44.981Z</updated>
+    <updated>2021-03-14T09:40:27.542Z</updated>
     
     
       
@@ -545,30 +512,58 @@
   </entry>
   
   <entry>
-    <title>详解 CRON 表达式</title>
-    <link href="https://dreamhomes.top/posts/202008191904.html"/>
-    <id>https://dreamhomes.top/posts/202008191904.html</id>
-    <published>2020-08-19T11:04:07.000Z</published>
-    <updated>2021-02-20T03:36:43.455Z</updated>
+    <title>PyTorch 中的损失函数总结</title>
+    <link href="https://dreamhomes.top/posts/202011261041.html"/>
+    <id>https://dreamhomes.top/posts/202011261041.html</id>
+    <published>2020-11-26T02:41:03.000Z</published>
+    <updated>2021-03-14T09:46:03.056Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;cron-表达式&quot;&gt;cron 表达式&lt;/h2&gt;
-&lt;p&gt;cron表达式，主要用于定时作业(定时任务)系统定义执行时间或执行频率的表达式；&lt;/p&gt;
-&lt;p&gt;表达式格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight</summary>
+    <summary type="html">&lt;h2 id=&quot;L1Loss&quot;&gt;L1Loss&lt;/h2&gt;
+&lt;p&gt;绝对值误差, 主要应用在回归的任务中。&lt;/p&gt;
+&lt;p&gt;输出维度: &lt;code&gt;(batch_size, 1) # FloatTensor&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;标签维度: &lt;code&gt;(batch_size,</summary>
         
       
     
     
     
-    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    <category term="深度学习" scheme="https://dreamhomes.top/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="CRON表达式" scheme="https://dreamhomes.top/tags/CRON%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    <category term="PyTorch" scheme="https://dreamhomes.top/tags/PyTorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【2019/ICLR】Simplifying Graph Convolutional Networks</title>
+    <link href="https://dreamhomes.top/posts/202009211002.html"/>
+    <id>https://dreamhomes.top/posts/202009211002.html</id>
+    <published>2020-09-21T02:02:11.000Z</published>
+    <updated>2021-03-14T09:38:37.952Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;文章链接：&lt;a href=&quot;https://arxiv.org/pdf/1902.07153.pdf&quot;&gt;https://arxiv.org/pdf/1902.07153.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="图神经网络" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
