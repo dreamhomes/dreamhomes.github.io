@@ -6,7 +6,7 @@
   <link href="https://dreamhomes.top/atom.xml" rel="self"/>
   
   <link href="https://dreamhomes.top/"/>
-  <updated>2021-03-15T02:11:00.144Z</updated>
+  <updated>2021-03-15T12:58:31.658Z</updated>
   <id>https://dreamhomes.top/</id>
   
   <author>
@@ -15,6 +15,63 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MicroDiag：微服务系统下的细粒度应用性能诊断系统</title>
+    <link href="https://dreamhomes.top/posts/202103151858.html"/>
+    <id>https://dreamhomes.top/posts/202103151858.html</id>
+    <published>2021-03-15T10:58:05.000Z</published>
+    <updated>2021-03-15T12:58:31.658Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note info flat&quot;&gt;&lt;p&gt;论文标题 ｜ MicroDiag: Fine-grained Performance Diagnosis for Microservice Systems&lt;br&gt;
+论文来源 ｜ ICSE 2021&lt;br&gt;
+论文链接</summary>
+        
+      
+    
+    
+    
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="根因定位" scheme="https://dreamhomes.top/tags/%E6%A0%B9%E5%9B%A0%E5%AE%9A%E4%BD%8D/"/>
+    
+    <category term="微服务" scheme="https://dreamhomes.top/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MicroHECL：大规模微服务系统中的高效根因定位方法</title>
+    <link href="https://dreamhomes.top/posts/202103151738.html"/>
+    <id>https://dreamhomes.top/posts/202103151738.html</id>
+    <published>2021-03-15T09:38:34.000Z</published>
+    <updated>2021-03-15T10:49:25.950Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note info flat&quot;&gt;&lt;p&gt;论文标题 ｜ MicroHECL: High-Efficient Root Cause Localization in Large-Scale Microservice Systems&lt;br&gt;
+论文来源 ｜ ICSE</summary>
+        
+      
+    
+    
+    
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="根因定位" scheme="https://dreamhomes.top/tags/%E6%A0%B9%E5%9B%A0%E5%AE%9A%E4%BD%8D/"/>
+    
+    <category term="微服务" scheme="https://dreamhomes.top/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>FluxEV：快速有效的无监督时间序列异常检测框架</title>
@@ -508,62 +565,6 @@
     <category term="变分自编码器" scheme="https://dreamhomes.top/tags/%E5%8F%98%E5%88%86%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8/"/>
     
     <category term="异常检测" scheme="https://dreamhomes.top/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>PyTorch 中的损失函数总结</title>
-    <link href="https://dreamhomes.top/posts/202011261041.html"/>
-    <id>https://dreamhomes.top/posts/202011261041.html</id>
-    <published>2020-11-26T02:41:03.000Z</published>
-    <updated>2021-03-14T09:46:03.056Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;L1Loss&quot;&gt;L1Loss&lt;/h2&gt;
-&lt;p&gt;绝对值误差, 主要应用在回归的任务中。&lt;/p&gt;
-&lt;p&gt;输出维度: &lt;code&gt;(batch_size, 1) # FloatTensor&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;标签维度: &lt;code&gt;(batch_size,</summary>
-        
-      
-    
-    
-    
-    <category term="深度学习" scheme="https://dreamhomes.top/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="PyTorch" scheme="https://dreamhomes.top/tags/PyTorch/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【2019/ICLR】Simplifying Graph Convolutional Networks</title>
-    <link href="https://dreamhomes.top/posts/202009211002.html"/>
-    <id>https://dreamhomes.top/posts/202009211002.html</id>
-    <published>2020-09-21T02:02:11.000Z</published>
-    <updated>2021-03-14T09:38:37.952Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;文章链接：&lt;a href=&quot;https://arxiv.org/pdf/1902.07153.pdf&quot;&gt;https://arxiv.org/pdf/1902.07153.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="图神经网络" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
