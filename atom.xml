@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>梦家博客</title>
+  
+  
+  <link href="https://dreamhomes.top/atom.xml" rel="self"/>
+  
+  <link href="https://dreamhomes.top/"/>
+  <updated>2022-05-26T03:15:49.128Z</updated>
+  <id>https://dreamhomes.top/</id>
+  
+  <author>
+    <name>梦家</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>智能运维 AIOps 系列丨调用链根因定位算法综述</title>
+    <link href="https://dreamhomes.top/posts/202204281516/"/>
+    <id>https://dreamhomes.top/posts/202204281516/</id>
+    <published>2022-04-28T15:16:58.000Z</published>
+    <updated>2022-05-26T03:15:49.128Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note purple icon flat&quot;&gt;&lt;i class=&quot;note-icon fas fa-fan&quot;&gt;&lt;/i&gt;&lt;p&gt;本文主要总结下智能运维领域 AIOps 中一关键问题 &lt;strong&gt;调用链根因定位&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="智能运维系列" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4%E7%B3%BB%E5%88%97/"/>
+    
+    <category term="调用链定位" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4%E7%B3%BB%E5%88%97/%E8%B0%83%E7%94%A8%E9%93%BE%E5%AE%9A%E4%BD%8D/"/>
+    
+    
+    <category term="智能运维" scheme="https://dreamhomes.top/tags/%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4/"/>
+    
+    <category term="调用链根因定位" scheme="https://dreamhomes.top/tags/%E8%B0%83%E7%94%A8%E9%93%BE%E6%A0%B9%E5%9B%A0%E5%AE%9A%E4%BD%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chart Studio &amp; Datapane：优雅地将 Plotly 图嵌入到 Markdown 文件中进行可视化分析</title>
+    <link href="https://dreamhomes.top/posts/202204241101/"/>
+    <id>https://dreamhomes.top/posts/202204241101/</id>
+    <published>2022-04-24T11:01:59.000Z</published>
+    <updated>2022-05-26T03:15:49.144Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+&lt;p&gt;在之前的一篇文章 &lt;a href=&quot;https://dreamhomes.top/posts/202107281122/&quot;&gt;工具篇 | Hexo Markdown 中嵌入 Plotly 动态交互图&lt;/a&gt; 中想要在</summary>
+        
+      
+    
+    
+    
+    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="Python" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/Python/"/>
+    
+    
+    <category term="Plotly" scheme="https://dreamhomes.top/tags/Plotly/"/>
+    
+    <category term="Markdown" scheme="https://dreamhomes.top/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ICSE 2022丨DeepTraLog：GNN 和 Trace-Log 数据相结合的微服务异常检测方法</title>
+    <link href="https://dreamhomes.top/posts/202204221627/"/>
+    <id>https://dreamhomes.top/posts/202204221627/</id>
+    <published>2022-04-22T16:27:43.000Z</published>
+    <updated>2022-05-26T03:15:49.132Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note purple icon flat&quot;&gt;&lt;i class=&quot;note-icon fas fa-fan&quot;&gt;&lt;/i&gt;&lt;p&gt;论文标题丨Trace-Log Combined Microservice Anomaly Detection through</summary>
+        
+      
+    
+    
+    
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="智能运维系列" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4%E7%B3%BB%E5%88%97/"/>
+    
+    <category term="调用链定位" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4%E7%B3%BB%E5%88%97/%E8%B0%83%E7%94%A8%E9%93%BE%E5%AE%9A%E4%BD%8D/"/>
+    
+    
+    <category term="图神经网络" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="智能运维" scheme="https://dreamhomes.top/tags/%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4/"/>
+    
+    <category term="异常检测" scheme="https://dreamhomes.top/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>齐夫定律 (Zipf&#39; law) 理论及其应用场景</title>
+    <link href="https://dreamhomes.top/posts/202204221003/"/>
+    <id>https://dreamhomes.top/posts/202204221003/</id>
+    <published>2022-04-22T10:03:07.000Z</published>
+    <updated>2022-05-26T03:15:49.132Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+&lt;p&gt;齐夫定律（Zipf’s law，/ˈzɪf/）是由哈佛大学的语言学家乔治·金斯利·齐夫于 1949 年发表的实验定律。它可以表述为：在自然语言的语料库里，一个单词出现的频率与它在频率表里的排名成反比。&lt;sup</summary>
+        
+      
+    
+    
+    
+    <category term="机器学习" scheme="https://dreamhomes.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="算法理论" scheme="https://dreamhomes.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%AE%97%E6%B3%95%E7%90%86%E8%AE%BA/"/>
+    
+    
+    <category term="数学理论" scheme="https://dreamhomes.top/tags/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA/"/>
+    
+    <category term="齐夫定律" scheme="https://dreamhomes.top/tags/%E9%BD%90%E5%A4%AB%E5%AE%9A%E5%BE%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大规模图可视化分析框架 Graphistry</title>
+    <link href="https://dreamhomes.top/posts/202204201700/"/>
+    <id>https://dreamhomes.top/posts/202204201700/</id>
+    <published>2022-04-20T17:00:42.000Z</published>
+    <updated>2022-05-26T03:15:49.140Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+&lt;p&gt;PyGraphistry 是一个 Python 可视化图形 AI 库，用于提取、转换、分析和可视化大图形，特别是与 Graphistry 端到端 GPU</summary>
+        
+      
+    
+    
+    
+    <category term="机器学习" scheme="https://dreamhomes.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="复杂网络" scheme="https://dreamhomes.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E5%A4%8D%E6%9D%82%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="图可视化" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图数据上的离群点检测开源库 PyGod</title>
+    <link href="https://dreamhomes.top/posts/202204081613/"/>
+    <id>https://dreamhomes.top/posts/202204081613/</id>
+    <published>2022-04-08T16:13:43.000Z</published>
+    <updated>2022-05-26T03:15:49.140Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="Python" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/Python/"/>
+    
+    
+    <category term="Python" scheme="https://dreamhomes.top/tags/Python/"/>
+    
+    <category term="图离群点检测" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E7%A6%BB%E7%BE%A4%E7%82%B9%E6%A3%80%E6%B5%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IntelliJ IDEA/Pycharm 破解激活方式推荐</title>
+    <link href="https://dreamhomes.top/posts/202204081455/"/>
+    <id>https://dreamhomes.top/posts/202204081455/</id>
+    <published>2022-04-08T14:55:00.000Z</published>
+    <updated>2022-05-26T03:15:49.144Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+&lt;p&gt;最近 IDEA 经常弹出&lt;strong&gt;激活失败&lt;/strong&gt;的情况，为了接着薅羊毛，因此再次找到一种简单的激活方法！🐶&lt;/p&gt;
+&lt;h2 id=&quot;ja-netfilter-代理&quot;&gt;ja-netfilter</summary>
+        
+      
+    
+    
+    
+    <category term="工具篇" scheme="https://dreamhomes.top/categories/%E5%B7%A5%E5%85%B7%E7%AF%87/"/>
+    
+    
+    <category term="破解教程" scheme="https://dreamhomes.top/tags/%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐一种 Python 获取时间序列数据集的方式 pandas_dataloader</title>
+    <link href="https://dreamhomes.top/posts/202204071125/"/>
+    <id>https://dreamhomes.top/posts/202204071125/</id>
+    <published>2022-04-07T11:25:42.000Z</published>
+    <updated>2022-05-26T03:15:49.132Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="机器学习" scheme="https://dreamhomes.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="时间序列" scheme="https://dreamhomes.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97/"/>
+    
+    
+    <category term="时间序列" scheme="https://dreamhomes.top/tags/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97/"/>
+    
+    <category term="Python" scheme="https://dreamhomes.top/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>灵魂拷问：是否真的需要深度学习模型来预测时间序列？</title>
+    <link href="https://dreamhomes.top/posts/202203181809/"/>
+    <id>https://dreamhomes.top/posts/202203181809/</id>
+    <published>2022-03-18T18:09:36.000Z</published>
+    <updated>2022-05-26T03:15:49.132Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+&lt;p&gt;这一篇文章类似于 Rethinking 系列，主要想法来自于文章 &lt;a href=&quot;https://arxiv.org/abs/2101.02118&quot;&gt;Do We Really Need Deep Learning Models</summary>
+        
+      
+    
+    
+    
+    <category term="机器学习" scheme="https://dreamhomes.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="时间序列" scheme="https://dreamhomes.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97/"/>
+    
+    
+    <category term="时间序列" scheme="https://dreamhomes.top/tags/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97/"/>
+    
+    <category term="回归模型" scheme="https://dreamhomes.top/tags/%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>时间序列趋势检验方法 Mann-Kendall Test 及其 Python 实现</title>
+    <link href="https://dreamhomes.top/posts/202202161704/"/>
+    <id>https://dreamhomes.top/posts/202202161704/</id>
+    <published>2022-02-16T17:04:10.000Z</published>
+    <updated>2022-05-26T03:15:49.132Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+&lt;p&gt;一般的统计方法难以对趋势性指标进行异常检测，因此需要采用一种方法支持缓慢变化的异常进行识别，如下图所示。&lt;/p&gt;
+&lt;img src=</summary>
+        
+      
+    
+    
+    
+    <category term="机器学习" scheme="https://dreamhomes.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="时间序列" scheme="https://dreamhomes.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97/"/>
+    
+    
+    <category term="时间序列" scheme="https://dreamhomes.top/tags/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97/"/>
+    
+    <category term="趋势检测" scheme="https://dreamhomes.top/tags/%E8%B6%8B%E5%8A%BF%E6%A3%80%E6%B5%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scala 中使用 JUnit 进行参数化测试</title>
+    <link href="https://dreamhomes.top/posts/202202151019/"/>
+    <id>https://dreamhomes.top/posts/202202151019/</id>
+    <published>2022-02-15T10:19:08.000Z</published>
+    <updated>2022-05-26T03:15:49.144Z</updated>
+    
+    
+    <summary type="html">kong</summary>
+    
+    
+    
+    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="Scala" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/Scala/"/>
+    
+    
+    <category term="Scala" scheme="https://dreamhomes.top/tags/Scala/"/>
+    
+    <category term="单元测试" scheme="https://dreamhomes.top/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scala 单元测试框架 JUnit 使用</title>
+    <link href="https://dreamhomes.top/posts/202202141510/"/>
+    <id>https://dreamhomes.top/posts/202202141510/</id>
+    <published>2022-02-14T15:10:57.000Z</published>
+    <updated>2022-05-26T03:15:49.144Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+&lt;p&gt;在一些项目中不可避免地需要写一些单元测试，以此提升开发效率和方便地进行回归测试，是产品上线中非常重要的一部分，然而实际上算法工程师们好像并不在意单元测试~&lt;/p&gt;
+&lt;p&gt;考虑到目前项目中主要是写 Scala，因此本文记录下</summary>
+        
+      
+    
+    
+    
+    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="Scala" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/Scala/"/>
+    
+    
+    <category term="Scala" scheme="https://dreamhomes.top/tags/Scala/"/>
+    
+    <category term="单元测试" scheme="https://dreamhomes.top/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ICLR 2022丨Pyraformer：基于低复杂度金字塔注意机制的长时间序列建模与预测模型</title>
+    <link href="https://dreamhomes.top/posts/202202071425/"/>
+    <id>https://dreamhomes.top/posts/202202071425/</id>
+    <published>2022-02-07T14:25:33.000Z</published>
+    <updated>2022-05-26T03:15:49.132Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note purple icon flat&quot;&gt;&lt;i class=&quot;note-icon fas fa-fan&quot;&gt;&lt;/i&gt;&lt;p&gt;论文标题丨Pyraformer: Low-Complexity Pyramidal Attention for</summary>
+        
+      
+    
+    
+    
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="时间序列系列" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E7%B3%BB%E5%88%97/"/>
+    
+    <category term="时序预测" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E7%B3%BB%E5%88%97/%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B/"/>
+    
+    
+    <category term="时间序列预测" scheme="https://dreamhomes.top/tags/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B/"/>
+    
+    <category term="注意力机制" scheme="https://dreamhomes.top/tags/%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AAAI 2022丨LUNAR：基于图神经网络的统一离群点检测方法</title>
+    <link href="https://dreamhomes.top/posts/202201281154/"/>
+    <id>https://dreamhomes.top/posts/202201281154/</id>
+    <published>2022-01-28T11:54:23.000Z</published>
+    <updated>2022-05-26T03:15:49.132Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note purple icon flat&quot;&gt;&lt;i class=&quot;note-icon fas fa-fan&quot;&gt;&lt;/i&gt;&lt;p&gt;论文标题丨LUNAR: Unifying Local Outlier Detection Methods via Graph</summary>
+        
+      
+    
+    
+    
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="图神经网络系列" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%B3%BB%E5%88%97/"/>
+    
+    <category term="异常检测" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%B3%BB%E5%88%97/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
+    
+    
+    <category term="图神经网络" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="离群点检测" scheme="https://dreamhomes.top/tags/%E7%A6%BB%E7%BE%A4%E7%82%B9%E6%A3%80%E6%B5%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 命令行参数解析模块 Fire 用法说明</title>
+    <link href="https://dreamhomes.top/posts/202201171052/"/>
+    <id>https://dreamhomes.top/posts/202201171052/</id>
+    <published>2022-01-17T10:52:34.000Z</published>
+    <updated>2022-05-26T03:15:49.140Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+&lt;p&gt;之前在文章 &lt;a href=&quot;https://dreamhomes.top/posts/202101161752/&quot;&gt;Python 命令行参数解析方法总结&lt;/a&gt; 中总结了</summary>
+        
+      
+    
+    
+    
+    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="Python" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/Python/"/>
+    
+    
+    <category term="Python" scheme="https://dreamhomes.top/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AAAI 2022丨图神经网络相关论文概览</title>
+    <link href="https://dreamhomes.top/posts/202201111536/"/>
+    <id>https://dreamhomes.top/posts/202201111536/</id>
+    <published>2022-01-11T15:36:39.000Z</published>
+    <updated>2022-05-26T03:15:49.128Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src= &quot;https://cdn.jsdelivr.net/gh/dreamhomes/dreamhomes.github.io@master/img/loading.gif&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="图神经网络系列" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%B3%BB%E5%88%97/"/>
+    
+    
+    <category term="图神经网络" scheme="https://dreamhomes.top/tags/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="AAAI" scheme="https://dreamhomes.top/tags/AAAI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AAAI 2022丨时间序列相关论文概览</title>
+    <link href="https://dreamhomes.top/posts/202201101536/"/>
+    <id>https://dreamhomes.top/posts/202201101536/</id>
+    <published>2022-01-10T15:36:39.000Z</published>
+    <updated>2022-05-26T03:15:49.128Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src= &quot;https://cdn.jsdelivr.net/gh/dreamhomes/dreamhomes.github.io@master/img/loading.gif&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="时间序列系列" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E7%B3%BB%E5%88%97/"/>
+    
+    <category term="会议论文汇总" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E7%B3%BB%E5%88%97/%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87%E6%B1%87%E6%80%BB/"/>
+    
+    
+    <category term="时间序列" scheme="https://dreamhomes.top/tags/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97/"/>
+    
+    <category term="AAAI" scheme="https://dreamhomes.top/tags/AAAI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 系统中配置终端 Oh-My-Zsh 教程</title>
+    <link href="https://dreamhomes.top/posts/202201092010/"/>
+    <id>https://dreamhomes.top/posts/202201092010/</id>
+    <published>2022-01-09T20:10:37.000Z</published>
+    <updated>2022-05-26T03:15:49.144Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+&lt;p&gt;在 MacOS 开发环境中 iTerm + Oh-My-Zsh 是一高效生产力工具组合，其终端命令行提示功能及其便携，尤其是 zsh-autosuggestions 命令行自动填充功能等其它插件。&lt;/p&gt;
+&lt;p&gt;那么在</summary>
+        
+      
+    
+    
+    
+    <category term="工具篇" scheme="https://dreamhomes.top/categories/%E5%B7%A5%E5%85%B7%E7%AF%87/"/>
+    
+    
+    <category term="Zsh" scheme="https://dreamhomes.top/tags/Zsh/"/>
+    
+    <category term="Windows" scheme="https://dreamhomes.top/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ICDM 2021丨时间序列相关研究论文汇总</title>
+    <link href="https://dreamhomes.top/posts/202112021109/"/>
+    <id>https://dreamhomes.top/posts/202112021109/</id>
+    <published>2021-12-02T11:09:08.000Z</published>
+    <updated>2022-05-26T03:15:49.128Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;文章系列：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://dreamhomes.top/posts/202108191029/&quot;&gt;ICDE 2021丨时间序列相关研究论文汇总&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="论文分享" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="时间序列系列" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E7%B3%BB%E5%88%97/"/>
+    
+    <category term="会议论文汇总" scheme="https://dreamhomes.top/categories/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E7%B3%BB%E5%88%97/%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87%E6%B1%87%E6%80%BB/"/>
+    
+    
+    <category term="时间序列" scheme="https://dreamhomes.top/tags/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97/"/>
+    
+    <category term="ICDM" scheme="https://dreamhomes.top/tags/ICDM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用 Github Actions 自动更新最新博客文章到 Github Profile</title>
+    <link href="https://dreamhomes.top/posts/202112011453/"/>
+    <id>https://dreamhomes.top/posts/202112011453/</id>
+    <published>2021-12-01T14:53:29.000Z</published>
+    <updated>2022-05-26T03:15:49.128Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+&lt;p&gt;最近在 Github Marketplace 上发现一个有趣的 Github Actions Workflow，名为 &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="技术杂谈" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="Hexo" scheme="https://dreamhomes.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://dreamhomes.top/tags/Hexo/"/>
+    
+    <category term="Github Actions" scheme="https://dreamhomes.top/tags/Github-Actions/"/>
+    
+  </entry>
+  
+</feed>
